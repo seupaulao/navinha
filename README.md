@@ -24,6 +24,13 @@ A play-clj game in which ... well, that part is up to you.
   - tela inicial
 
 ## projeto 2
+  - telas
+    - navegacao basica
+      - inicio
+      - game
+      - fim  
+
+## projeto 3
   - plataforma
   - bate e volta
     - camera segue o jogador
